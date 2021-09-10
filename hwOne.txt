@@ -1,1 +1,3 @@
 Hello World, my name is Marvin Sevilla. I am working on HW 1.
+
+Hello, our names are Marvin Sevilla and Eric Chen and we are working on hw5 together, we started working together on 09/09/2021
